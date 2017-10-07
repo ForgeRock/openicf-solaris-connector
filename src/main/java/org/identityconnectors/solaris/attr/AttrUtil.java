@@ -16,7 +16,7 @@
  * with the fields enclosed by brackets [] replaced by
  * your own identifying information:
  *
- * Portions Copyrighted 2012 [name of copyright owner]
+ * Portions Copyrighted [yyyy] [name of copyright owner]
  */
 package org.identityconnectors.solaris.attr;
 
